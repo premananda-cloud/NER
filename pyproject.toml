@@ -3,14 +3,37 @@ name = "ner"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-authors = [
-    { name = "premananda", email = "premananda367singh@gmail.com" }
-]
 requires-python = ">=3.12"
-dependencies = ["pytorch", "numpy", "transformers", "fastapi"]
-[project.scripts]
-ner = "ner:main"
-
-[build-system]
-requires = ["uv_build>=0.13.7,<0.14.0"]
-build-backend = "uv_build"
+dependencies = [
+    "annotated-doc==0.0.5",
+    "annotated-types==0.8.0",
+    "anyio==4.16.0",
+    "click==8.5.1",
+    "fastapi==0.162.2",
+    "h11==0.16.0",
+    "hf-xet==1.8.0",
+    "httpcore2==2.16.0",
+    "httpx2==2.16.0",
+    "huggingface-hub==2.4.0",
+    "idna==3.20",
+    "markdown-it-py==4.2.0",
+    "mdurl==0.1.2",
+    "opentelemetry-api==1.45.2",
+    "pydantic==2.14.3",
+    "pydantic-core==2.50.4",
+    "pygments==2.21.0",
+    "pyyaml==6.0.3",
+    "regex==2026.11.7",
+    "rich==15.0.0",
+    "safetensors==0.8.0",
+    "setuptools==84.2.1",
+    "shellingham==1.5.4",
+    "starlette==1.10.0",
+    "tokenizers==0.23.3",
+    "tqdm==4.70.1",
+    "transformers==5.22.2",
+    "truststore==0.10.5",
+    "typer==0.28.0",
+    "typing-inspection==0.4.5",
+    "wheel==0.48.0",
+]
