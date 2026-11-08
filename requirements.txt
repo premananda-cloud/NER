@@ -2,30 +2,16 @@ annotated-doc==0.0.5
 annotated-types==0.8.0
 anyio==4.16.0
 click==8.5.1
-exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1763918002538/work
 fastapi==0.162.2
-filelock @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_filelock_h5ded981_1793834561/work
-fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1790256769698/work
-gmpy2 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_gmpy2_1791166959/work
 h11==0.16.0
 hf-xet==1.8.0
 httpcore2==2.16.0
 httpx2==2.16.0
 huggingface_hub==2.4.0
 idna==3.20
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jinja2_1764517220/work
 markdown-it-py==4.2.0
-MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_markupsafe_h8b7ec3f_1793707103/work
 mdurl==0.1.2
-mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1773661943568/work
-networkx @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_networkx_1790068597/work
-numpy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_numpy_1791675329/work/dist/numpy-2.5.4-cp312-cp312-linux_x86_64.whl#sha256=178b27cd788a1fd47a724c4a529ca6054a72d95a6db1aea709048b7bbad60010
 opentelemetry-api==1.45.2
-optree @ file:///home/conda/feedstock_root/build_artifacts/optree_1788504417687/work
-packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1785888127/work
-pathspec @ file:///home/conda/feedstock_root/build_artifacts/pathspec_1777271521463/work
-pybind11 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pybind11_1786199539/work
-pybind11-global @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pybind11-global_1786199539/work
 pydantic==2.14.3
 pydantic_core==2.50.4
 Pygments==2.21.0
@@ -33,18 +19,13 @@ PyYAML==6.0.3
 regex==2026.11.7
 rich==15.0.0
 safetensors==0.8.0
-scikit_build_core @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_scikit-build-core_hcb39dcd_1793712521/work
 setuptools==84.2.1
 shellingham==1.5.4
 starlette==1.10.0
-sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1771952240620/work
 tokenizers==0.23.3
-tomli @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_tomli_1791394576/work
-torch @ file:///home/conda/feedstock_root/build_artifacts/libtorch_1793254498799/work
 tqdm==4.70.1
 transformers==5.22.2
 truststore==0.10.5
 typer==0.28.0
 typing-inspection==0.4.5
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1783002732/work
 wheel==0.48.0

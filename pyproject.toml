@@ -6,9 +6,8 @@ readme = "README.md"
 authors = [
     { name = "premananda", email = "premananda367singh@gmail.com" }
 ]
-requires-python = ">=3.14"
-dependencies = []
-
+requires-python = ">=3.12"
+dependencies = ["pytorch", "numpy", "transformers", "fastapi"]
 [project.scripts]
 ner = "ner:main"
 
